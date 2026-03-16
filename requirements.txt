@@ -1,0 +1,10 @@
+google-cloud-aiplatform
+proto-plus
+protobuf
+grpcio
+boto3
+requests
+python-dotenv
+pymongo
+pillow
+termcolor
