@@ -1,0 +1,6 @@
+# bart: 
+# how far is Berlin?
+# i'm planning to deploy my webapp, which cloud would you recommend?
+
+# alice:
+# my printer stopped working recently
